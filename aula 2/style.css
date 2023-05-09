@@ -1,0 +1,19 @@
+table,th,td{
+border: 1px solid  #9400D3;
+}
+table{
+    width: 80%; 
+    text-align: center;
+     margin-left: 70px;
+     font-family: 'Times New Roman', Times, serif ;
+     font-size:  20px; 
+}
+th{
+    background-color:#1A237E;
+    color: #fff;
+}
+
+td{
+    background-color: #BBDEFB;
+    color: #000;
+}
