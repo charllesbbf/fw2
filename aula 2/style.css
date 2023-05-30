@@ -1,19 +1,36 @@
-table,th,td{
-border: 1px solid  #9400D3;
-}
-table{
-    width: 80%; 
-    text-align: center;
-     margin-left: 70px;
-     font-family: 'Times New Roman', Times, serif ;
-     font-size:  20px; 
-}
-th{
-    background-color:#1A237E;
-    color: #fff;
+*{
+    font-family: Verdana;
+    margin:0;
 }
 
-td{
-    background-color: #BBDEFB;
-    color: #000;
+#container{
+    width:100%;
+    max-width:1600px;
+    margin:0 auto;
+    background-color:darkgray;
+
+}
+
+nav{
+    text-align:center;
+}
+
+#menu ul{
+    list-style: none;
+}
+
+#menu ul li{
+    display: inline;
+    text-transform: uppercase ;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    display:inline-block;
+    padding:10px;
+    color:darkslategrey;
+}
+
+#titulo h1{
+    padding:10px 20px;
 }
