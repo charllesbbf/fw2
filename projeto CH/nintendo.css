@@ -1,0 +1,50 @@
+*{
+    font-family: Verdana;
+    margin:0;
+}
+
+#container{
+    width:100%;
+    max-width:1600px;
+    margin:0 auto;
+    background-color:rgb(27, 27, 27);
+
+}
+
+nav{
+    text-align:center;
+}
+
+#menu ul{
+    list-style: none;
+}
+
+#menu ul li{
+    display: inline;
+    text-transform: uppercase ;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    display:inline-block;
+    padding:10px;
+    color:rgb(161, 0, 0);
+}
+
+#titulo h1{
+    padding:10px 20px;
+}
+
+
+
+
+h1{
+    color: red;
+    font-family: 'Odor Mean Chey', serif;
+    text-align: center;
+    
+  }
+img{
+    width: 300px;
+    height: 300px;
+}
