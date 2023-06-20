@@ -7,7 +7,7 @@
     width:100%;
     max-width:1600px;
     margin:0 auto;
-    background-color:rgb(27, 27, 27);
+    background-color:rgb(29, 29, 29);
 
 }
 
@@ -28,28 +28,20 @@ nav{
     text-decoration: none;
     display:inline-block;
     padding:10px;
-    color:rgb(161, 0, 0);
+    color:rgb(165, 0, 0);
 }
-
 #titulo h1{
     padding:10px 20px;
 }
-
-
-
-
+img{
+    height: 300px;
+    width: 300px;
+}
 h1{
     color: red;
     font-family: 'Odor Mean Chey', serif;
     text-align: center;
-    
-  }
-  .imagens img{
-    width: 100px;
-    height: 100px;
-    display: inline-block;
 }
-.imagens{
-    display: inline-block;
-
+h2{
+    text-align: center;
 }

@@ -47,4 +47,5 @@ h1{
 img{
     width: 1350px;
     height: 400px;
+    display: inline-block;
 }
