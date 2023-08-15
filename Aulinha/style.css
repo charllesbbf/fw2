@@ -1,0 +1,18 @@
+html
+:root{
+    height:100% ;
+}
+body{
+    background-color: linear-gradient (180deg, #1641cf 0% #acbeee 100%);
+    background-size: 100%;
+    margin: 0;
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
